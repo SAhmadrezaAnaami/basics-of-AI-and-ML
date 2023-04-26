@@ -3,4 +3,6 @@ This presentation provides an overview of Machine Learning, including its histor
 
  This repo is a great resource for beginners and experienced practitioners alike to learn about this important field.
  
+ this presentation created using a platform called marp check https://github.com/marp-team/marp
+ 
  ### Created by Ahmadreza Anaami
