@@ -38,7 +38,7 @@ _header: In the name of who surround me with blessing that I can not count
 * Learn to implement linear `regression`
 
 
-![bg right:44%](1.png)
+![bg right:44%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/1.png)
 
 <!-- 
 _backgroundColor: black
