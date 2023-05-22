@@ -200,11 +200,7 @@ _paginate: false
 
 ![bg right:55% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/4.png)
 
-$$
-
-f_{w,b}(x) = wx + b
-
-$$
+$$f_{w,b}(x) = wx + b$$
 
 
 w , b > parameters , weight
