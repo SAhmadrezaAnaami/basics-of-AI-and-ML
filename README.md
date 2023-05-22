@@ -50,7 +50,7 @@ _class: invert
 _class: invert
 _paginate: false
 -->
-![bg 93%](What-Is-AI-or-Artificial-Intelligence.png)
+![bg 93%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/What-Is-AI-or-Artificial-Intelligence.png)
 
 ---
 ## machine learning 
@@ -76,7 +76,7 @@ _backgroundColor: navy
 - learn from being given **right answers**
     - correct pairs of input (x) and output (y)
 
-![bg left:44%](2.png)
+![bg left:44%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/2.png)
 
 ---
 
@@ -89,7 +89,7 @@ _backgroundColor: navy
 | image-radar              | position of other car            ||
 | image of phone               | defect?(0,1)                    ||
 
-![bg right:44%](3.png)
+![bg right:44%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/3.png)
 
 <!-- 
 _class: invert
@@ -106,7 +106,7 @@ _color: green
 -->
 
 
-![bg right:55% 100%](4.png)
+![bg right:55% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/4.png)
 
 
 ---
@@ -133,14 +133,14 @@ _class: invert
 _paginate: false
 _backgroundColor: black
 -->
-![bg right:55% 100%](5.png)
+![bg right:55% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/5.png)
 
 ---
 
-![bg right:100% 100%](14.png)
+![bg right:100% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/14.PNG)
 
 
-![bg left:100%](16.png)
+![bg left:100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/16.png)
 
 
 ---
