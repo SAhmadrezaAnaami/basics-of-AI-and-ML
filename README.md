@@ -158,7 +158,7 @@ _color: white
 
 ---
 
-![bg right:100% 100%](15.png)
+![bg right:100% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/15.PNG)
 
 ---
 # Unsupervised learning
@@ -169,7 +169,7 @@ _color: white
 - anomaly detection 
 - Dimensionality reduction
 
-![bg left:60%](6.png)
+![bg left:60%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/6.png)
 
 
 <!-- 
@@ -179,26 +179,26 @@ _paginate: false
 
 ---
 
-![bg center: 100%](17.png)
+![bg center: 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/17.PNG)
 
 ---
 
 
-![bg right:100% 100%](18.png)
+![bg right:100% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/18.PNG)
 
 
-![bg left:100%](19.png)
+![bg left:100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/19.png)
 
 ---
 
-![bg left: 100%](20.png)
+![bg left: 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/20.PNG)
 
 ---
 
 # linear **regression** 
 
 
-![bg right:55% 100%](4.png)
+![bg right:55% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/4.png)
 
 $$
 
@@ -213,7 +213,7 @@ x > single feature
 
 ---
 
-![bg right:55% 100%](8.png)
+![bg right:55% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/8.png)
 
 
 # Cost function 
@@ -232,9 +232,8 @@ m = number of example
 
 
 
-![bg center:70% 100%](9.png)
+![bg center:70% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/9.png)
 
-![bg left:70% 100%](9.png)
 
 # Example 
 ###### **choose w to minimize J(w)**
@@ -246,9 +245,9 @@ $$J(w) = \frac{1}{2m} \sum\limits_{i = 0}^{m-1} (f_{w}(x^{(i)}) - y^{(i)})^2$$
 
 ---
 
-![bg center:100% 100%](10.png)
+![bg center:100% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/10.png)
 
-![bg left:100% 100%](11.png)
+![bg left:100% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/11.png)
 
 ---
 
@@ -265,7 +264,7 @@ $$
  b &= b -  \alpha \frac{\partial }{\partial b} J(w,b) \newline \rbrace
 \end{align*}$$
 
-![bg left:50% 100%](12.png)
+![bg left:50% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/12.png)
 
 
 
@@ -299,7 +298,7 @@ _class: invert
 # optional
 
 
-![bg right:50% 100%](9.png)
+![bg right:50% 100%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/9.png)
 
 ##### if **alpha** is too small :
 ##### if **alpha** is too big :
@@ -332,4 +331,4 @@ $$\alpha \frac{\partial }{\partial w} J(w,b)$$
 
 
 
-![bg left:44%](13.png)
+![bg left:44%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/13.png)
