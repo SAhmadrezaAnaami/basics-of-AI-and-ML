@@ -256,10 +256,7 @@ $$J(w) = \frac{1}{2m} \sum\limits_{i = 0}^{m-1} (f_{w}(x^{(i)}) - y^{(i)})^2$$
 
 
 
-$$
-\newline
-
-\begin{align*} \text{repeat}&\text{ until convergence:} \; \lbrace \newline
+$$\newline\begin{align*} \text{repeat}&\text{ until convergence:} \; \lbrace \newline
 \;  w &= w -  \alpha \frac{\partial }{\partial w} J(w,b)  \; \newline \newline
  b &= b -  \alpha \frac{\partial }{\partial b} J(w,b) \newline \rbrace
 \end{align*}$$
