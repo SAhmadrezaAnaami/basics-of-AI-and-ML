@@ -8,14 +8,11 @@ This presentation provides an overview of Machine Learning, including its histor
  ### Created by Ahmadreza Anaami
 
 
----
 
-marp: true
-paginate: true
 ---
 
 ## **AI**: From the pages of *science*, to the future of our **lives**.
-# by `Ahmadreza` Anaami
+### by `Ahmadreza` Anaami
 
 
 <!-- 
